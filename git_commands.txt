@@ -1,0 +1,10 @@
+touch index.html - creating files 
+mkdir fileName.txt
+rmdir fileName.txt
+code . - run it in the editor
+git init - initializing an emply repository
+ls -a seeing hidden files in the path
+git status 
+git add . 
+git comming -m "Comment goes here"
+git push / git push origin master

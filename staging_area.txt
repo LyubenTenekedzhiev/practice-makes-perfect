@@ -1,0 +1,1 @@
+Staging area is the connecting link between workspace and git directory. We are first adding the files to the staging area in case we are not sure if we want to push them to the repository.
